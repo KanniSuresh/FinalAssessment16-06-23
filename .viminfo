@@ -29,38 +29,54 @@
 # Registers:
 
 # File marks:
-'0  7  50  ~/ansible-playbook.yml
-|4,48,7,50,1686828136,"~/ansible-playbook.yml"
-'1  4  31  ~/ansible-playbook.yml
-|4,49,4,31,1686828066,"~/ansible-playbook.yml"
+'0  2  8  ~/Dockerfile
+|4,48,2,8,1686829028,"~/Dockerfile"
+'1  7  50  ~/ansible-playbook.yml
+|4,49,7,50,1686828136,"~/ansible-playbook.yml"
 '2  4  31  ~/ansible-playbook.yml
 |4,50,4,31,1686828066,"~/ansible-playbook.yml"
-'3  12  12  ~/ansible-playbook.yml
-|4,51,12,12,1686828014,"~/ansible-playbook.yml"
+'3  4  31  ~/ansible-playbook.yml
+|4,51,4,31,1686828066,"~/ansible-playbook.yml"
 '4  12  12  ~/ansible-playbook.yml
 |4,52,12,12,1686828014,"~/ansible-playbook.yml"
 '5  12  12  ~/ansible-playbook.yml
 |4,53,12,12,1686828014,"~/ansible-playbook.yml"
 '6  12  12  ~/ansible-playbook.yml
 |4,54,12,12,1686828014,"~/ansible-playbook.yml"
-'7  8  0  ~/ansible-playbook.yml
-|4,55,8,0,1686827987,"~/ansible-playbook.yml"
+'7  12  12  ~/ansible-playbook.yml
+|4,55,12,12,1686828014,"~/ansible-playbook.yml"
 '8  8  0  ~/ansible-playbook.yml
 |4,56,8,0,1686827987,"~/ansible-playbook.yml"
 '9  8  0  ~/ansible-playbook.yml
 |4,57,8,0,1686827987,"~/ansible-playbook.yml"
 
 # Jumplist (newest first):
+-'  2  8  ~/Dockerfile
+|4,39,2,8,1686829028,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1686828962,"~/Dockerfile"
+-'  7  50  ~/ansible-playbook.yml
+|4,39,7,50,1686828136,"~/ansible-playbook.yml"
 -'  7  50  ~/ansible-playbook.yml
 |4,39,7,50,1686828136,"~/ansible-playbook.yml"
 -'  4  31  ~/ansible-playbook.yml
 |4,39,4,31,1686828110,"~/ansible-playbook.yml"
+-'  4  31  ~/ansible-playbook.yml
+|4,39,4,31,1686828110,"~/ansible-playbook.yml"
+-'  4  31  ~/ansible-playbook.yml
+|4,39,4,31,1686828066,"~/ansible-playbook.yml"
 -'  4  31  ~/ansible-playbook.yml
 |4,39,4,31,1686828066,"~/ansible-playbook.yml"
 -'  12  12  ~/ansible-playbook.yml
 |4,39,12,12,1686828058,"~/ansible-playbook.yml"
 -'  12  12  ~/ansible-playbook.yml
 |4,39,12,12,1686828058,"~/ansible-playbook.yml"
+-'  12  12  ~/ansible-playbook.yml
+|4,39,12,12,1686828058,"~/ansible-playbook.yml"
+-'  12  12  ~/ansible-playbook.yml
+|4,39,12,12,1686828058,"~/ansible-playbook.yml"
+-'  12  12  ~/ansible-playbook.yml
+|4,39,12,12,1686828014,"~/ansible-playbook.yml"
 -'  12  12  ~/ansible-playbook.yml
 |4,39,12,12,1686828014,"~/ansible-playbook.yml"
 -'  8  0  ~/ansible-playbook.yml
@@ -70,7 +86,17 @@
 -'  8  0  ~/ansible-playbook.yml
 |4,39,8,0,1686827999,"~/ansible-playbook.yml"
 -'  8  0  ~/ansible-playbook.yml
+|4,39,8,0,1686827999,"~/ansible-playbook.yml"
+-'  8  0  ~/ansible-playbook.yml
+|4,39,8,0,1686827999,"~/ansible-playbook.yml"
+-'  8  0  ~/ansible-playbook.yml
+|4,39,8,0,1686827999,"~/ansible-playbook.yml"
+-'  8  0  ~/ansible-playbook.yml
 |4,39,8,0,1686827987,"~/ansible-playbook.yml"
+-'  8  0  ~/ansible-playbook.yml
+|4,39,8,0,1686827987,"~/ansible-playbook.yml"
+-'  8  2  ~/ansible-playbook.yml
+|4,39,8,2,1686827969,"~/ansible-playbook.yml"
 -'  8  2  ~/ansible-playbook.yml
 |4,39,8,2,1686827969,"~/ansible-playbook.yml"
 -'  3  4  ~/ansible-playbook.yml
@@ -83,6 +109,16 @@
 |4,39,3,4,1686827854,"~/ansible-playbook.yml"
 -'  3  4  ~/ansible-playbook.yml
 |4,39,3,4,1686827854,"~/ansible-playbook.yml"
+-'  3  4  ~/ansible-playbook.yml
+|4,39,3,4,1686827854,"~/ansible-playbook.yml"
+-'  3  4  ~/ansible-playbook.yml
+|4,39,3,4,1686827854,"~/ansible-playbook.yml"
+-'  3  4  ~/ansible-playbook.yml
+|4,39,3,4,1686827854,"~/ansible-playbook.yml"
+-'  3  4  ~/ansible-playbook.yml
+|4,39,3,4,1686827854,"~/ansible-playbook.yml"
+-'  3  4  ~/ansible-playbook.yml
+|4,39,3,4,1686827854,"~/ansible-playbook.yml"
 -'  6  4  ~/ansible-playbook.yml
 |4,39,6,4,1686827847,"~/ansible-playbook.yml"
 -'  6  4  ~/ansible-playbook.yml
@@ -93,6 +129,36 @@
 |4,39,6,4,1686827847,"~/ansible-playbook.yml"
 -'  6  4  ~/ansible-playbook.yml
 |4,39,6,4,1686827847,"~/ansible-playbook.yml"
+-'  6  4  ~/ansible-playbook.yml
+|4,39,6,4,1686827847,"~/ansible-playbook.yml"
+-'  6  4  ~/ansible-playbook.yml
+|4,39,6,4,1686827847,"~/ansible-playbook.yml"
+-'  6  4  ~/ansible-playbook.yml
+|4,39,6,4,1686827847,"~/ansible-playbook.yml"
+-'  6  4  ~/ansible-playbook.yml
+|4,39,6,4,1686827847,"~/ansible-playbook.yml"
+-'  6  4  ~/ansible-playbook.yml
+|4,39,6,4,1686827847,"~/ansible-playbook.yml"
+-'  2  53  ~/ansible-playbook.yml
+|4,39,2,53,1686827816,"~/ansible-playbook.yml"
+-'  5  18  ~/ansible-playbook.yml
+|4,39,5,18,1686827816,"~/ansible-playbook.yml"
+-'  2  53  ~/ansible-playbook.yml
+|4,39,2,53,1686827816,"~/ansible-playbook.yml"
+-'  5  18  ~/ansible-playbook.yml
+|4,39,5,18,1686827816,"~/ansible-playbook.yml"
+-'  2  53  ~/ansible-playbook.yml
+|4,39,2,53,1686827816,"~/ansible-playbook.yml"
+-'  5  18  ~/ansible-playbook.yml
+|4,39,5,18,1686827816,"~/ansible-playbook.yml"
+-'  2  53  ~/ansible-playbook.yml
+|4,39,2,53,1686827816,"~/ansible-playbook.yml"
+-'  5  18  ~/ansible-playbook.yml
+|4,39,5,18,1686827816,"~/ansible-playbook.yml"
+-'  2  53  ~/ansible-playbook.yml
+|4,39,2,53,1686827816,"~/ansible-playbook.yml"
+-'  5  18  ~/ansible-playbook.yml
+|4,39,5,18,1686827816,"~/ansible-playbook.yml"
 -'  2  53  ~/ansible-playbook.yml
 |4,39,2,53,1686827816,"~/ansible-playbook.yml"
 -'  5  18  ~/ansible-playbook.yml
@@ -115,6 +181,10 @@
 |4,39,5,18,1686827816,"~/ansible-playbook.yml"
 -'  5  18  ~/ansible-playbook.yml
 |4,39,5,18,1686827768,"~/ansible-playbook.yml"
+-'  5  18  ~/ansible-playbook.yml
+|4,39,5,18,1686827768,"~/ansible-playbook.yml"
+-'  5  5  ~/ansible-playbook.yml
+|4,39,5,5,1686827732,"~/ansible-playbook.yml"
 -'  5  5  ~/ansible-playbook.yml
 |4,39,5,5,1686827732,"~/ansible-playbook.yml"
 -'  10  40  ~/ansible-playbook.yml
@@ -139,98 +209,28 @@
 |4,39,10,40,1686827682,"~/ansible-playbook.yml"
 -'  10  40  ~/ansible-playbook.yml
 |4,39,10,40,1686827682,"~/ansible-playbook.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
--'  22  22  ~/test1.yml
-|4,39,22,22,1686824224,"~/test1.yml"
+-'  10  40  ~/ansible-playbook.yml
+|4,39,10,40,1686827682,"~/ansible-playbook.yml"
+-'  7  40  ~/ansible-playbook.yml
+|4,39,7,40,1686827682,"~/ansible-playbook.yml"
+-'  10  40  ~/ansible-playbook.yml
+|4,39,10,40,1686827682,"~/ansible-playbook.yml"
+-'  7  40  ~/ansible-playbook.yml
+|4,39,7,40,1686827682,"~/ansible-playbook.yml"
+-'  10  40  ~/ansible-playbook.yml
+|4,39,10,40,1686827682,"~/ansible-playbook.yml"
+-'  7  40  ~/ansible-playbook.yml
+|4,39,7,40,1686827682,"~/ansible-playbook.yml"
+-'  10  40  ~/ansible-playbook.yml
+|4,39,10,40,1686827682,"~/ansible-playbook.yml"
+-'  7  40  ~/ansible-playbook.yml
+|4,39,7,40,1686827682,"~/ansible-playbook.yml"
+-'  10  40  ~/ansible-playbook.yml
+|4,39,10,40,1686827682,"~/ansible-playbook.yml"
+-'  10  40  ~/ansible-playbook.yml
+|4,39,10,40,1686827682,"~/ansible-playbook.yml"
+-'  10  40  ~/ansible-playbook.yml
+|4,39,10,40,1686827682,"~/ansible-playbook.yml"
 -'  22  22  ~/test1.yml
 |4,39,22,22,1686824224,"~/test1.yml"
 -'  22  22  ~/test1.yml
@@ -253,6 +253,13 @@
 |4,39,22,22,1686824224,"~/test1.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/Dockerfile
+	*	1686829027	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
 
 > ~/ansible-playbook.yml
 	*	1686828135	0
