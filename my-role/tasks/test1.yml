@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: '552254951688.dkr.ecr.ap-south-1.amazonaws.com/kube-check-ecr'
+        image: 552254951688.dkr.ecr.ap-south-1.amazonaws.com/newone:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80

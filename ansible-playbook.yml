@@ -1,12 +1,4 @@
 - hosts: localhost
-  tasks:
-    - name: run the ansible a
-      shell: "kubectl apply -f /root/my-role/tasks/test2.yml"
-
-    - name: run the ansible a
-      shell: "kubectl apply -f /root/my-role/tasks/test1.yml"
-
-- hosts: localhost
   remote_user: root
   roles:
     - my-role
