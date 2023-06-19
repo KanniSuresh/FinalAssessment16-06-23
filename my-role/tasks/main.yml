@@ -23,7 +23,7 @@
           spec:
             containers:
               - name: nginx-app
-                image: 552254951688.dkr.ecr.ap-south-1.amazonaws.com/newone:latest
+                image: 867452596803.dkr.ecr.ap-south-1.amazonaws.com/newone:latest
                 imagePullPolicy: Always
                 ports:
                   - containerPort: 80
